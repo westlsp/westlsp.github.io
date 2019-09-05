@@ -13,7 +13,7 @@
   </tr>
 </table>
 ## 个人能力
-擅长web前端，vue,bootstrap,jquery,element-ui,scss,node.js,php,mysql,写过小程序和android应用程序
+擅长web前端，vue,bootstrap,jquery,element-ui,scss,node.js,php,mysql,自适应和响应式,移动端和PC端,写过小程序和android应用程序,
 ## 项目经历
 ### 仿饿了么PC
 vue-cli,element-ui,vue,scss,node.js编写
