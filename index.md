@@ -4,30 +4,14 @@
 ##### 电话：15158602291
 
 ## 项目经历
+- 仿饿了么PC
+### vue-cli,element-ui,vue,scss,node.js编写
+### 源:(https://github.com/westlsp/copyelem)
+- 故事续写
+### php,xiao,wux-app编写
+### 源:(https://github.com/westlsp/weminestory)
+- 旧时光
+### 大二电商(手机移动端网站)
+### jquery,php
+### 源:(http://47.101.55.60/dianzi_match)
 
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/westlsp/westlsp.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
