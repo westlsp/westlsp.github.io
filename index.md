@@ -1,6 +1,6 @@
 <table border="0">
   <tr>
-    <td width="75%" style="background-color:#67C23A;color:white;">
+    <td width="75%" style="background-color:#409EFF;color:white;">
       <h1 style="color:white;">吴鹏</h1>
       <p><b>学历:本科</b></p>
       <p><b>学校:浙江农林大学暨阳学院</b></p>
