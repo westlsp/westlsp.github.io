@@ -2,8 +2,8 @@
   <tr>
     <td width="75%" style="background-color:#67C23A;color:white;">
       <h1 style="color:white;">吴鹏</h1>
-      <p><b>本科</b></p>
-      <p><b>浙江农林大学暨阳学院</b></p>
+      <p><b>学历:本科</b></p>
+      <p><b>学校:浙江农林大学暨阳学院</b></p>
       <p><b>邮箱:1453641359@qq.com</b></p>
       <p><b>地址:温州</b></p>
     </td>
