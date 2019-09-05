@@ -1,4 +1,4 @@
-<table border="0">
+<table border="0" style="font-family:"宋体";">
   <tr>
     <td width="75%" style="background-color:#409EFF;color:white;">
       <h1 style="color:white;">吴鹏</h1>
