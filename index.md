@@ -2,13 +2,14 @@
 ### 吴鹏
 ##### 学历：本科 
 ##### 电话：15158602291
-
+## 个人能力
+擅长web前端，vue,bootstrap,jquery,element-ui,scss,node.js,php,mysql,写过小程序和android应用程序
 ## 项目经历
 ### 仿饿了么PC
 #### vue-cli,element-ui,vue,scss,node.js编写
 #### 源:(https://github.com/westlsp/copyelem)
 ### 故事续写
-#### php,xiao,wux-app编写
+#### php,wux-app编写
 #### 源:(https://github.com/westlsp/weminestory)
 ### 旧时光
 #### 大二电商(手机移动端网站)
