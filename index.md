@@ -1,6 +1,6 @@
-<table border="0" style="">
+<table border="0">
   <tr>
-    <td width="75%">
+    <td width="75%" style="background-color:#67C23A;color:white;">
       <h1>吴鹏</h1>
       <p><b>本科</b></p>
       <p><b>浙江农林大学暨阳学院</b></p>
