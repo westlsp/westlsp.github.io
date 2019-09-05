@@ -1,4 +1,4 @@
-<table border="0" style="width:100%;">
+<table border="0" style="">
   <tr>
     <td width="75%">
       <h1>吴鹏</h1>
@@ -8,7 +8,7 @@
       <p><b>地址:温州</b></p>
     </td>
     <td width="25%">
-      <img src="" width="100%" alt="null">
+      <img src="https://c-ssl.duitang.com/uploads/item/201712/22/20171222223729_d8HCB.jpeg" width="100%">
     </td>
   </tr>
 </table>
