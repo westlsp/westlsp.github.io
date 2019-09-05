@@ -18,7 +18,7 @@ jquery,php
       <h1>吴鹏</h1>
       <p><b>本科</b></p>
       <p><b>浙江农林大学暨阳学院</b></p>
-      <p><b>邮箱:1453641359@qq.com</b></p>
+      <p><b>邮箱:1453641359@qq.commmmmmmmmmmmmmmmmmmmmmmmmm</b></p>
       <p><b>地址:温州</b></p>
     </td>
     <td width="25%">
