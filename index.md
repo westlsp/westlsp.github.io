@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## 个人资料
+# 吴鹏
+学历：本科 
+电话：15158602291
 
-You can use the [editor on GitHub](https://github.com/westlsp/westlsp.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
