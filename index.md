@@ -12,7 +12,7 @@ php,wux-app编写
 大二电商(手机移动端网站)
 jquery,php
 源:(http://47.101.55.60/dianzi_match)
-<table border="0" style="background:#F56C6C;color:white;width:100%;">
+<table border="0">
   <tr>
     <td width="75%">
       <h1>吴鹏</h1>
