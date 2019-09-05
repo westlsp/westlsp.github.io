@@ -1,13 +1,10 @@
+## 个人资料
 ### 吴鹏
 ##### 学历：本科 
 ##### 电话：15158602291
 
+## 项目经历
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
 Syntax highlighted code block
 
 # Header 1
