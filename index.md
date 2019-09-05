@@ -1,7 +1,7 @@
 <table border="0" style="font-family:'楷体';">
   <tr>
-    <td width="75%" style="background-color:#409EFF;color:white;">
-      <h1 style="color:white;">吴鹏</h1>
+    <td width="75%">
+      <h1>吴鹏</h1>
       <p><b>学历:本科</b></p>
       <p><b>学校:浙江农林大学暨阳学院</b></p>
       <p><b>邮箱:1453641359@qq.com</b></p>
